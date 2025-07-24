@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+dist/
+build/
+*.tsbuildinfo
+
+# Dotenv
+.env
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Allure Reports
+allure-results/
+allure-report/
+
+# Test Artifacts
+screenshots/
+logs/
+temp/
+tmp/
+
+# Coverage (nếu có dùng)
+coverage/
+
+# IDEs
+.idea/
+*.swp
+
+# WebdriverIO
+.wdio/
